@@ -1,0 +1,12 @@
+Type,count,median,p95
+Bylaw Services,47627,3.0,65.0
+Citizen Services,2517,6.0,66.0
+City Facilities,621,4.0,63.0
+Garbage and Recycling,84478,2.0,26.0
+Health and Safety,867,1.0,47.0
+Licenses and Permits,516,15.0,127.75
+Parking Control Enforcement,47306,0.0,1.0
+Recreation and Culture,6149,3.0,78.0
+Roads and Transportation,26371,3.0,117.0
+Social Community Service,965,2.0,21.0
+Water and the Environment,37867,5.0,82.0
